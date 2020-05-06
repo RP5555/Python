@@ -1,7 +1,8 @@
 ----------------------------- FINAL PROJECT -----------------------------------
 
-**Par Ronan Pelé
-Basé sur Python 3.7.6
+*Par Ronan Pelé*
+
+*Basé sur Python 3.7.6*
 
 C'est un programme affichant une page web contenant plusieurs onglets d'analyse
 sur la pollution dans le monde, construis avec Flask Blueprint.
@@ -14,4 +15,4 @@ Il doit être possible de modifier la base de donnée via des requêtes envoyés
 depuis l'application Flask.
 
 
-Deadline : 29/05/20**
+**Deadline : 29/05/20**
